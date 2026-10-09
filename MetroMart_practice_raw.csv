@@ -1,0 +1,533 @@
+Order ID,Branch,City,Customer Type,Gender,Product,Unit Price,Quantity,Tax,Total,Date,Time,Payment,Rating
+ORD-10001,East,Salt Lake,Member,Female,Computer Accessories,125.3,4,25.06,526.25,21-02-2026,18:25,Credit Card,9.3
+ORD-10002,East,Salt Lake,Member,Female,Smartphones,491.58,2,49.16,1032.31,15-01-2026,14:15,Cash,9.1
+ORD-10003,Central,Kolkata,Member,Female,Computer Accessories,118.49,1,5.92,124.41,13-03-2026,13:25,UPI,7.5
+ORD-10004,North,Kolkata,Member,Female,Home Appliances,270.01,3,40.5,850.55,02-03-2026,18:05,Credit Card,8.8
+ORD-10005,Central,Kolkata,Member,Male,Computer Accessories,101.1,2,10.11,212.3,21-01-2026,18:55,Credit Card,10.0
+ORD-10006,South,Howrah,Member,Female,Audio Accessories,79.96,3,11.99,251.87,24-03-2026,20:45,Cash,8.5
+ORD-10007,North,Kolkata,Member,Male,Audio Accessories,71.75,1,3.59,75.34,28-03-2026,15:45,Credit Card,8.2
+ORD-10008,South,Howrah,Normal,Male,Audio Accessories,99.55,1,4.98,104.52,16-03-2026,15:25,upi,7.8
+ORD-10009,Central,Kolkata,,Male,Home Appliances,267.39,5,66.85,1403.78,16-03-2026,18:55,UPI,8.4
+ORD-10010,South,Howrah,Normal,Male,Smartphones,473.31,1,23.67,496.97,29-03-2026,15:25,Cash,7.1
+ORD-10011,Central,Kolkata,Normal,Male,Smartphones,486.22,5,121.56,2552.66,24-01-2026,20:15,Credit Card,7.3
+ORD-10012,Central,Kolkata,Normal,Female,Laptops,578.43,5,144.61,3036.78,03-01-2026,19:35,Cash,8.2
+ORD-10013,East,Salt Lake,Member,Male,Wearables,172.59,3,25.89,543.65,22-01-2026,16:55,UPI,7.0
+ORD-10014,South,Howrah,Normal,Female,Laptops,574.99,3,86.25,1811.22,22-02-2026,18:35,UPI,
+ORD-10015,North,Kolkata,Normal,Male,Home Appliances,215.01,2,21.5,451.53,02-01-2026,18:15,Credit Card,7.6
+ORD-10016,East,Salt Lake,Member,Female,Computer Accessories,108.31,4,21.66,454.9,29-03-2026,12:35,UPI,9.0
+ORD-10017,Central,Kolkata,Member,Male,Smartphones,415.33,1,20.77,436.1,30-01-2026,19:05,Credit Card,6.2
+ORD-10018,East,Salt Lake,Normal,Male,Home Appliances,220.0,2,22.0,462.01,07-02-2026,16:35,UPI,8.5
+ORD-10019,East,Salt Lake,Member,Female,Audio Accessories,72.79,2,7.28,152.86,02-01-2026,19:15,UPI,8.6
+ORD-10020,Central,Kolkata,Normal,Female,Computer Accessories,105.64,2,10.56,221.83,05-03-2026,15:35,UPI,8.6
+ORD-10021,North,Kolkata,Normal,Male,Smartphones,366.67,2,36.67,770.0,01-03-2026,19:45,Credit Card,6.6
+ORD-10022,North,Kolkata,Member,Female,Home Appliances,280.87,1,14.04,294.92,21-01-2026,15:25,Credit Card,5.5
+ORD-10023,Central,Kolkata,Member,Male,Wearables,196.8,2,19.68,413.28,02-02-2026,10:05,Cash,8.3
+ORD-10024,South,Howrah,Member,Male,Computer Accessories,140.21,4,28.04,588.87,17-03-2026,19:45,UPI,7.8
+ORD-10025,North,Kolkata,Member,Female,Home Appliances,234.79,1,11.74,246.53,27-02-2026,12:45,Cash,8.9
+ORD-10026,North,Kolkata,Member,Female,Audio Accessories,78.22,4,15.64,328.52,22-01-2026,15:15,UPI,6.7
+ORD-10027,East,Salt Lake,Normal,Female,Home Appliances,265.77,3,39.87,837.18,30-03-2026,20:25,UPI,8.6
+ORD-10028,East,Salt Lake,Member,Male,Computer Accessories,112.49,4,22.5,472.48,18-02-2026,20:25,UPI,8.9
+ORD-10029,Central,Kolkata,,Female,Home Appliances,222.67,2,22.27,467.6,28-02-2026,17:55,UPI,7.5
+ORD-10030,North,Kolkata,Member,Male,Smartphones,379.55,3,56.93,1195.6,11-02-2026,17:05,UPI,8.1
+ORD-10031,North,Kolkata,Normal,Female,Computer Accessories,104.0,1,5.2,109.2,01-03-2026,16:15,UPI,8.1
+ORD-10032,North,Kolkata,Member,Male,Home Appliances,218.96,3,32.84,689.72,21-03-2026,14:05,Credit Card,6.6
+ORD-10033,East,Salt Lake,Member,Male,Home Appliances,227.5,1,11.37,238.87,15-01-2026,15:55,UPI,8.3
+ORD-10034,North,Kolkata,Normal,Male,Laptops,722.59,4,144.52,3034.89,03-03-2026,17:35,Cash,9.6
+ORD-10035,South,Howrah,Normal,Female,Home Appliances,202.21,5,50.55,1061.58,03-03-2026,18:45,Credit Card,7.6
+ORD-10036,North,Kolkata,Member,Male,Audio Accessories,76.14,1,3.81,79.95,16-02-2026,18:05,UPI,5.8
+ORD-10037,South,Howrah,Normal,Male,Home Appliances,266.7,1,13.33,280.03,03-03-2026,18:45,UPI,6.7
+ORD-10038,South,Howrah,Member,Male,Smartphones,366.61,3,54.99,1154.84,20-02-2026,12:15,UPI,5.4
+ORD-10039,East,Salt Lake,Member,Male,Home Appliances,226.4,1,11.32,237.72,24-02-2026,16:35,UPI,9.2
+ORD-10040,North,Kolkata,Member,Female,Computer Accessories,135.75,4,27.15,570.16,05-03-2026,11:15,Cash,8.6
+ORD-10041,North,Kolkata,Member,Female,Smartphones,367.82,1,18.39,386.22,03-01-2026,16:35,UPI,7.0
+ORD-10042,North,Kolkata,Normal,Male,Computer Accessories,101.97,1,5.1,107.07,20-02-2026,16:35,Credit Card,5.8
+ORD-10043,East,Salt Lake,Member,Female,Audio Accessories,84.53,5,21.13,443.77,07-01-2026,19:45,UPI,6.6
+ORD-10044,East,Salt Lake,Member,Male,Computer Accessories,111.46,3,16.72,351.11,21-01-2026,15:15,UPI,6.8
+ORD-10045,South,Howrah,Normal,Male,Wearables,184.11,4,36.82,773.26,14-03-2026,12:15,UPI,7.7
+ORD-10046,South,Howrah,Normal,Female,Home Appliances,266.25,1,13.31,279.56,08-02-2026,12:05,Cash,7.7
+ORD-10047,South,Howrah,Member,Male,Wearables,156.49,3,23.47,492.93,18-01-2026,18:15,UPI,9.3
+ORD-10048,North,Kolkata,Normal,Female,Computer Accessories,123.49,2,12.35,259.32,04-01-2026,17:05,Credit Card,6.7
+ORD-10049,East,Salt Lake,Member,Male,Audio Accessories,85.17,2,8.52,178.85,30-03-2026,12:25,Cash,5.7
+ORD-10050,Central,Kolkata,Normal,Male,Laptops,592.87,3,88.93,1867.54,01-03-2026,11:25,UPI,6.2
+ORD-10051,Central,Kolkata,Normal,Male,Home Appliances,250.71,2,25.07,526.5,14-01-2026,18:25,UPI,7.6
+ORD-10052,Central,Kolkata,Normal,Female,Wearables,165.33,2,16.53,347.2,09-01-2026,11:55,UPI,6.7
+ORD-10053,North,Kolkata,Member,Female,Wearables,179.21,1,8.96,188.17,31-03-2026,19:15,Credit Card,7.2
+ORD-10054,North,Kolkata,Member,Male,Wearables,152.93,3,22.94,481.73,22-02-2026,18:55,Cash,7.0
+ORD-10055,South,Howrah,Member,Male,Audio Accessories,83.76,1,4.19,87.95,02-01-2026,11:15,UPI,8.8
+ORD-10056,North,Kolkata,Member,Male,Wearables,167.46,3,25.12,527.5,25-03-2026,11:05,Cash,6.9
+ORD-10057,South,Howrah,Member,Female,Smartphones,468.74,1,23.44,492.18,01-03-2026,20:55,Credit Card,7.1
+ORD-10058,North,Kolkata,Normal,Female,Home Appliances,201.72,3,30.26,635.43,12-03-2026,15:55,Cash,8.5
+ORD-10059,Central,Kolkata,Member,Female,Smartphones,407.69,3,61.15,1284.23,13-02-2026,15:55,UPI,6.9
+ORD-10060,Central,Kolkata,Member,Male,Laptops,669.82,1,33.49,703.32,08-01-2026,18:35,Credit Card,8.1
+ORD-10061,Central,Kolkata,Normal,Female,Audio Accessories,91.89,1,4.59,96.48,16-02-2026,20:05,Credit Card,8.0
+ORD-10062,South,Howrah,Member,Female,Audio Accessories,87.27,1,4.36,91.64,04-02-2026,20:25,UPI,7.8
+ORD-10063,Central,Kolkata,Normal,Male,Home Appliances,254.45,2,25.44,534.34,19-03-2026,18:05,UPI,6.2
+ORD-10064,South,Howrah,Member,Female,Audio Accessories,93.48,4,18.7,392.61,22-03-2026,15:35,UPI,9.1
+ORD-10065,Central,Kolkata,Member,Male,Audio Accessories,96.08,1,4.8,100.89,05-02-2026,11:15,UPI,10.0
+ORD-10066,South,Howrah,Member,Male,Laptops,634.44,3,95.17,1998.48,19-02-2026,18:05,Cash,7.6
+ORD-10067,East,Salt Lake,Member,Male,Audio Accessories,86.16,2,8.62,180.94,04-01-2026,17:55,UPI,6.3
+ORD-10068,South,Howrah,Normal,Female,Laptops,763.26,2,76.33,1602.84,02-01-2026,16:25,UPI,7.6
+ORD-10069,North,Kolkata,Member,Female,Smartphones,494.01,4,98.8,2074.82,06-01-2026,19:25,UPI,8.8
+ORD-10070,North,Kolkata,Normal,Male,Home Appliances,273.65,1,13.68,287.34,23-02-2026,12:15,UPI,6.8
+ORD-10071,North,Kolkata,Member,Male,Home Appliances,228.89,2,22.89,480.68,04-01-2026,16:05,Credit Card,7.4
+ORD-10072,South,Howrah,Member,Male,Home Appliances,213.66,1,10.68,224.35,23-02-2026,10:35,UPI,8.0
+ORD-10073,North,Kolkata,Normal,Female,Audio Accessories,84.68,1,4.23,88.91,04-03-2026,16:15,Cash,9.1
+ORD-10074,Central,Kolkata,Member,Male,Audio Accessories,92.39,1,4.62,97.01,18-01-2026,11:05,Cash,8.6
+ORD-10075,South,Howrah,Normal,Male,Computer Accessories,119.68,1,5.98,125.66,31-03-2026,12:45,Credit Card,8.6
+ORD-10076,Central,Kolkata,Normal,Male,Audio Accessories,84.49,3,12.67,266.13,13-02-2026,12:25,UPI,7.1
+ORD-10077,South,Howrah,Normal,Male,Audio Accessories,95.35,2,9.53,200.23,03-02-2026,17:35,Cash,8.1
+ORD-10078,North,Kolkata ,Normal,Male,Smartphones,399.04,2,39.9,837.99,15-03-2026,18:55,UPI,6.7
+ORD-10079,North,Kolkata,Member,Male,Laptops,768.08,1,38.4,806.48,03-03-2026,17:35,UPI,8.7
+ORD-10080,South,Howrah,Member,Female,Audio Accessories,82.15,1,4.11,86.26,14-01-2026,20:55,UPI,9.0
+ORD-10081,Central,Kolkata,Member,Female,Audio Accessories,79.74,3,11.96,251.19,17-02-2026,15:35,UPI,8.3
+ORD-10082,South,Howrah,Normal,Female,Home Appliances,236.02,5,59.01,1239.13,15-01-2026,14:25,Cash,7.1
+ORD-10083,Central,Kolkata,Normal,Female,Home Appliances,262.68,1,13.13,275.81,13-03-2026,19:55,Credit Card,7.3
+ORD-10084,North,Kolkata,Member,Female,Home Appliances,207.69,4,41.54,872.28,19-03-2026,14:05,UPI,9.9
+ORD-10085,East,Salt Lake,Normal,Female,Wearables,160.33,2,16.03,336.69,28-03-2026,20:55,UPI,7.2
+ORD-10086,East,Salt Lake,Member,Female,Wearables,209.25,2,20.93,439.43,03-03-2026,10:15,Credit Card,8.9
+ORD-10087,South,Howrah,Normal,Female,Wearables,158.97,2,15.9,333.84,09-02-2026,20:05,UPI,8.0
+ORD-10088,North,Kolkata,Member,Male,Computer Accessories,122.93,1,6.15,129.07,26-03-2026,11:15,UPI,7.2
+ORD-10089,South,Howrah,Normal,Male,Smartphones,431.99,1,21.6,453.59,21-03-2026,19:35,UPI,5.9
+ORD-10090,Central,Kolkata,Normal,Female,Laptops,677.46,2,67.75,1422.67,23-03-2026,16:05,UPI,7.9
+ORD-10091,North,Kolkata,Member,Male,Smartphones,441.89,2,44.19,927.96,22-02-2026,20:35,Credit Card,7.7
+ORD-10092,East,Salt Lake,Member,Male,Home Appliances,216.66,4,43.33,909.96,24-01-2026,11:45,Credit Card,9.9
+ORD-10093,North,Kolkata,Member,Female,Computer Accessories,122.28,2,12.23,256.78,26-01-2026,17:35,Cash,6.5
+ORD-10094,East,Salt Lake,Member,Female,Laptops,648.71,1,32.44,681.14,30-03-2026,20:35,Cash,10.0
+ORD-10095,Central,Kolkata,Member,Female,Computer Accessories,126.98,3,19.05,400.0,01-03-2026,16:15,Credit Card,8.1
+ORD-10096,North,Kolkata,Normal,Male,Smartphones,365.75,1,18.29,384.04,10-02-2026,17:55,Credit Card,8.1
+ORD-10097,Central,Kolkata,Normal,Male,Computer Accessories,123.06,2,12.31,258.43,29-01-2026,17:45,credit card,6.9
+ORD-10098,East,Salt Lake,Normal,Female,Audio Accessories,75.37,3,11.31,237.41,15-01-2026,16:35,Cash,8.0
+ORD-10099,South,Howrah,Member,Female,Smartphones,386.53,4,77.31,1623.43,14-02-2026,17:35,UPI,8.2
+ORD-10100,East,Salt Lake,Normal,Female,Audio Accessories,76.39,3,11.46,240.64,06-03-2026,17:45,Credit Card,8.8
+ORD-10101,South,Howrah,Normal,Female,Laptops,602.36,3,90.35,1897.43,30-03-2026,19:45,UPI,6.4
+ORD-10102,South,Howrah,Member,Female,Laptops,759.73,3,113.96,2393.16,12-03-2026,11:05,UPI,9.4
+ORD-10103,East,Salt Lake,Normal,Female,Laptops,627.54,5,156.89,3294.59,09-01-2026,14:15,Cash,8.1
+ORD-10104,North,Kolkata,Normal,Male,Wearables,207.68,1,10.38,218.06,29-03-2026,20:45,UPI,8.4
+ORD-10105,Central,Kolkata,Member,Male,Home Appliances,280.6,1,14.03,294.63,01-01-2026,19:45,UPI,7.3
+ORD-10106,North,Kolkata,Member,Female,Laptops,697.44,1,34.87,732.32,08-01-2026,16:25,UPI,6.4
+ORD-10107,East,Salt Lake,Member,Male,Home Appliances,209.16,1,10.46,219.61,29-03-2026,17:55,Credit Card,7.7
+ORD-10108,East,Salt Lake,Member,Female,Wearables,171.87,3,25.78,541.39,04-03-2026,14:45,UPI,7.8
+ORD-10109,North,Kolkata,Normal,Female,Laptops,752.88,3,112.93,2371.59,11-01-2026,13:15,Credit Card,5.9
+ORD-10110,South,Howrah,Normal,Female,Audio Accessories,80.94,2,8.09,169.98,22-03-2026,16:55,Cash,8.6
+ORD-10111,East,Salt Lake,Normal,Male,Smartphones,357.56,1,17.88,375.43,08-01-2026,15:55,UPI,8.8
+ORD-10112,North,Kolkata,Member,Male,Smartphones,428.59,3,64.29,1350.05,04-02-2026,17:35,Credit Card,6.7
+ORD-10113,South,Howrah,Member,Male,Home Appliances,269.82,1,13.49,283.31,04-02-2026,11:35,Cash,6.3
+ORD-10114,East,Salt Lake,Normal,Female,Smartphones,464.74,3,69.71,1463.94,02-02-2026,20:35,Cash,7.2
+ORD-10115,North,Kolkata,Normal,Male,Home Appliances,211.93,2,21.19,445.05,05-01-2026,20:35,UPI,7.6
+ORD-10116,South,Howrah,Member,Female,Wearables,191.2,2,19.12,401.51,10-02-2026,17:25,Cash,7.3
+ORD-10117,Central,Kolkata,Member,Male,Smartphones,377.74,1,18.89,396.63,28-01-2026,16:45,Credit Card,7.5
+ORD-10118,East,Salt Lake,,Female,Home Appliances,215.65,1,10.78,226.44,07-01-2026,14:35,Credit Card,7.9
+ORD-10119,East,Salt Lake,Member,Female,Laptops,771.57,4,154.31,3240.61,14-03-2026,18:05,UPI,5.9
+ORD-10120,East,Salt Lake,Member,Male,Computer Accessories,109.19,4,21.84,458.58,13-03-2026,17:35,UPI,6.0
+ORD-10121,Central,Kolkata,Normal,Male,Audio Accessories,77.76,3,11.66,244.93,12-01-2026,13:45,UPI,4.2
+ORD-10122,East,Salt Lake,Member,Female,Wearables,147.64,1,7.38,155.02,03-02-2026,19:35,Credit Card,8.8
+ORD-10123,East,Salt Lake ,Member,Male,Home Appliances,272.03,2,27.2,571.25,02-02-2026,19:25,Cash,7.6
+ORD-10124,Central,Kolkata,Member,Female,Smartphones,464.24,3,69.64,1462.36,17-02-2026,20:15,UPI,8.9
+ORD-10125,East,Salt Lake,Member,Male,Home Appliances,251.0,3,37.65,790.65,23-01-2026,18:15,UPI,6.2
+ORD-10126,North,Kolkata,Normal,Male,Computer Accessories,130.81,1,6.54,137.35,03-03-2026,17:45,UPI,7.6
+ORD-10127,South,Howrah,Member,Male,Home Appliances,209.94,1,10.5,220.43,29-03-2026,15:15,Cash,7.9
+ORD-10128,North,Kolkata,Member,Male,Wearables,177.3,3,26.59,558.49,06-02-2026,20:15,Credit Card,6.9
+ORD-10129,North,Kolkata,Normal,Male,Computer Accessories,113.57,2,11.36,238.5,13-02-2026,19:05,Cash,5.7
+ORD-10130,North,Kolkata,Normal,Female,Laptops,580.56,1,29.03,609.58,27-03-2026,11:45,Cash,9.8
+ORD-10131,South,Howrah,Normal,Male,Laptops,676.6,1,33.83,710.43,04-02-2026,10:45,Credit Card,9.3
+ORD-10132,Central,Kolkata,Member,Female,Home Appliances,276.35,2,27.64,580.34,06-03-2026,15:15,Credit Card,7.1
+ORD-10133,South,Howrah,Member,Female,Audio Accessories,70.93,4,14.19,297.89,16-02-2026,18:15,Cash,8.2
+ORD-10134,North,Kolkata,Normal,Female,Wearables,166.49,5,41.62,874.06,19-03-2026,20:15,Cash,7.0
+ORD-10135,Central,Kolkata,Normal,Female,Computer Accessories,107.37,2,10.74,225.47,03-01-2026,13:55,Cash,6.4
+ORD-10136,Central,Kolkata,,Male,Audio Accessories,76.99,2,7.7,161.67,01-01-2026,17:25,UPI,9.9
+ORD-10137,East,Salt Lake,Member,Female,Laptops,779.98,1,39.0,818.98,05-01-2026,15:35,CASH,5.5
+ORD-10138,Central,Kolkata,Member,Male,Wearables,177.93,2,17.79,373.65,31-03-2026,20:25,Cash,7.2
+ORD-10139,South,Howrah,Normal,Female,Laptops,671.75,2,67.18,1410.68,14-01-2026,19:45,UPI,7.7
+ORD-10140,East,Salt Lake,Normal,Female,Wearables,196.89,2,19.69,413.46,27-01-2026,19:05,Credit Card,9.7
+ORD-10141,South,Howrah,Member,Male,Audio Accessories,74.43,2,7.44,156.3,09-01-2026,16:35,UPI,8.7
+ORD-10142,North,Kolkata,Member,Female,Home Appliances,238.9,1,11.94,250.84,20-03-2026,15:05,UPI,5.5
+ORD-10143,North,Kolkata,Normal,Female,Smartphones,409.41,1,20.47,429.88,15-01-2026,14:55,Cash,7.6
+ORD-10144,East,Salt Lake,Normal,Male,Home Appliances,248.37,1,12.42,260.79,31-03-2026,11:45,Credit Card,7.6
+ORD-10145,North,Kolkata,Member,Female,Audio Accessories,100.29,1,5.01,105.3,11-02-2026,19:55,Credit Card,7.3
+ORD-10146,East,Salt Lake,Normal,Male,Home Appliances,263.28,1,13.16,276.44,18-03-2026,18:45,Credit Card,
+ORD-10147,Central,Kolkata,Normal,Female,Smartphones,404.56,5,101.14,2123.93,20-02-2026,20:05,Credit Card,5.8
+ORD-10148,East,Salt Lake,Member,Female,Wearables,201.23,2,20.12,422.57,04-03-2026,20:05,Credit Card,7.1
+ORD-10149,East,Salt Lake,Normal,Male,Computer Accessories,105.77,2,10.58,222.13,21-02-2026,17:05,UPI,8.2
+ORD-10150,East,Salt Lake,Member,Female,Laptops,565.06,4,113.01,2373.24,04-01-2026,18:45,Cash,8.4
+ORD-10151,Central,Kolkata,Normal,Female,Smartphones,375.31,5,93.83,1970.39,23-01-2026,20:15,UPI,7.8
+ORD-10152,South,Howrah,Normal,Female,Smartphones,395.87,2,39.59,831.33,15-01-2026,19:05,Credit Card,7.2
+ORD-10153,Central,Kolkata,Normal,Female,Home Appliances,240.91,3,36.14,758.88,12-02-2026,14:55,Credit Card,7.5
+ORD-10154,Central,Kolkata,Normal,Male,Home Appliances,249.95,1,12.5,262.44,29-01-2026,16:35,UPI,8.5
+ORD-10155,South,Howrah,Member,Female,Home Appliances,275.48,1,13.77,289.25,05-02-2026,12:45,Cash,7.6
+ORD-10156,East,Salt Lake,Normal,Male,Laptops,682.41,2,68.24,1433.07,13-01-2026,20:55,UPI,6.3
+ORD-10157,East,Salt Lake,Normal,Male,Audio Accessories,85.04,3,12.76,267.87,01-02-2026,17:25,Credit Card,6.1
+ORD-10158,South,Howrah,Member,Female,Home Appliances,201.14,3,30.17,633.59,12-03-2026,14:25,UPI,5.7
+ORD-10159,Central,Kolkata,Normal,Male,Audio Accessories,70.77,1,3.54,74.31,28-02-2026,17:35,UPI,9.4
+ORD-10160,Central,Kolkata,Normal,Female,Computer Accessories,122.21,1,6.11,128.32,27-03-2026,17:15,UPI,8.6
+ORD-10161,South,Howrah,Member,Male,Smartphones,410.65,3,61.6,1293.56,28-01-2026,15:05,UPI,7.5
+ORD-10162,North,Kolkata,Normal,Female,Home Appliances,269.31,1,13.47,282.77,07-03-2026,12:45,Credit Card,7.0
+ORD-10163,North,Kolkata,Normal,Male,Audio Accessories,74.62,2,7.46,156.7,11-02-2026,17:55,UPI,6.9
+ORD-10164,Central,Kolkata,Member,Female,Audio Accessories,70.46,3,10.57,221.96,14-02-2026,16:05,Credit Card,9.0
+ORD-10165,Central,Kolkata,Normal,Female,Wearables,176.7,3,26.5,556.6,03-03-2026,18:55,UPI,10.0
+ORD-10166,Central,Kolkata,Member,Male,Home Appliances,217.32,3,32.6,684.55,26-02-2026,16:45,UPI,6.8
+ORD-10167,North,Kolkata,Member,Male,Computer Accessories,100.54,4,20.11,422.28,06-01-2026,19:25,Cash,9.0
+ORD-10168,North,Kolkata,Member,Female,Smartphones,453.96,2,45.4,953.31,28-01-2026,17:05,Credit Card,7.6
+ORD-10169,North,Kolkata,Normal,Female,Smartphones,361.27,3,54.19,1138.01,28-01-2026,17:35,UPI,7.3
+ORD-10170,East,Salt Lake,Normal,Male,Wearables,187.02,2,18.7,392.74,13-02-2026,19:15,UPI,9.5
+ORD-10171,Central,Kolkata,Member,Male,Home Appliances,221.08,1,11.05,232.14,25-03-2026,15:35,UPI,7.6
+ORD-10172,Central,Kolkata,Member,Male,Laptops,600.07,1,30.0,630.08,30-01-2026,12:15,Credit Card,8.0
+ORD-10173,South,Howrah,Normal,Male,Smartphones,401.82,1,20.09,421.91,03-03-2026,10:55,Cash,7.9
+ORD-10174,North,Kolkata,Member,Male,Smartphones,465.58,2,46.56,977.72,16-03-2026,18:05,Credit Card,5.6
+ORD-10175,East,Salt Lake,Normal,Male,Computer Accessories,115.34,2,11.53,242.21,30-03-2026,17:05,UPI,8.0
+ORD-10176,East,Salt Lake,Normal,Female,Laptops,741.39,4,148.28,3113.83,03-03-2026,18:15,UPI,6.9
+ORD-10177,North,Kolkata,Member,Female,Laptops,588.32,1,29.42,617.73,01-01-2026,13:25,Cash,5.8
+ORD-10178,Central,Kolkata,Normal,Male,Laptops,746.77,1,37.34,784.11,27-01-2026,12:45,UPI,7.0
+ORD-10179,East,Salt Lake,Member,Male,Audio Accessories,76.95,5,19.24,403.99,03-03-2026,10:35,UPI,6.9
+ORD-10180,East,Salt Lake,Normal,Female,Smartphones,446.82,1,22.34,469.16,18-03-2026,15:55,Cash,8.9
+ORD-10181,Central,Kolkata,Normal,Female,Audio Accessories,87.01,2,8.7,182.73,03-01-2026,17:35,UPI,6.3
+ORD-10182,South,Howrah,Normal,Male,Smartphones,484.89,2,48.49,1018.26,11-03-2026,15:35,Credit Card,6.6
+ORD-10183,North,Kolkata,Member,Female,Wearables,172.7,2,17.27,362.67,13-03-2026,16:55,Cash,7.9
+ORD-10184,East,Salt Lake,Normal,Female,Laptops,573.8,1,28.69,602.49,27-01-2026,19:55,Credit Card,5.9
+ORD-10185,North,Kolkata,Member,Female,Home Appliances,198.46,1,9.92,208.38,09-01-2026,15:05,UPI,6.8
+ORD-10186,East,Salt Lake,Member,Female,Computer Accessories,134.12,1,6.71,140.83,03-03-2026,16:35,UPI,5.5
+ORD-10187,South,Howrah,Member,Female,Home Appliances,242.14,2,24.21,508.49,06-02-2026,18:45,UPI,8.8
+ORD-10188,South,Howrah,Normal,Female,Home Appliances,263.78,2,26.38,553.94,20-02-2026,15:45,Cash,7.2
+ORD-10189,Central,Kolkata,Normal,Female,Laptops,614.99,1,30.75,645.74,13-02-2026,17:15,Cash,7.6
+ORD-10190,North,Kolkata,Normal,Male,Laptops,642.08,3,96.31,2022.54,24-01-2026,19:55,Cash,8.7
+ORD-10191,North,Kolkata,Normal,Female,Home Appliances,199.4,4,39.88,837.48,20-03-2026,20:05,CASH,6.7
+ORD-10192,North,Kolkata,Member,Male,Computer Accessories,139.94,1,7.0,146.93,28-02-2026,12:45,UPI,7.2
+ORD-10193,North,Kolkata,Normal,Male,Home Appliances,254.5,2,25.45,534.46,01-02-2026,20:25,Credit Card,6.3
+ORD-10194,South,Howrah,Member,Female,Home Appliances,277.43,3,41.61,873.9,29-03-2026,16:05,Credit Card,6.3
+ORD-10195,Central,Kolkata,Normal,Male,Wearables,164.8,1,8.24,173.04,21-02-2026,14:05,UPI,6.4
+ORD-10196,North,Kolkata,Normal,Female,Audio Accessories,88.41,1,4.42,92.83,03-03-2026,16:45,Cash,7.0
+ORD-10197,East,Salt Lake,Normal,Male,Smartphones,446.99,2,44.7,938.68,27-02-2026,20:25,UPI,7.1
+ORD-10198,East,Salt Lake,Normal,Female,Home Appliances,224.24,4,44.85,941.79,21-02-2026,16:15,UPI,8.0
+ORD-10199,East,Salt Lake,Member,Male,Computer Accessories,135.04,3,20.26,425.37,12-01-2026,15:45,Cash,6.5
+ORD-10200,East,Salt Lake,Member,Male,Smartphones,487.61,2,48.76,1023.98,08-02-2026,17:25,UPI,8.0
+ORD-10201,North,Kolkata,Normal,Female,Home Appliances,273.25,3,40.99,860.74,02-01-2026,14:05,UPI,8.2
+ORD-10202,Central,Kolkata,Member,Female,Laptops,738.52,2,73.85,1550.9,03-01-2026,11:25,UPI,7.0
+ORD-10203,South,Howrah,Member,Male,Home Appliances,220.77,3,33.12,695.43,25-02-2026,12:05,UPI,6.6
+ORD-10204,South,Howrah,Member,Male,Smartphones,386.98,2,38.7,812.66,22-03-2026,12:45,Credit Card,7.7
+ORD-10205,North,Kolkata,Normal,Female,Audio Accessories,99.18,1,4.96,104.14,28-02-2026,13:55,Credit Card,7.3
+ORD-10206,East,Salt Lake,Member,Male,Wearables,148.27,3,22.24,467.04,02-01-2026,12:45,UPI,7.9
+ORD-10207,North,Kolkata,Member,Female,Laptops,732.89,2,73.29,1539.07,02-01-2026,17:35,Credit Card,9.6
+ORD-10208,North,Kolkata,Normal,Male,Home Appliances,257.82,2,25.78,541.42,23-02-2026,13:35,Credit Card,7.7
+ORD-10209,Central,Kolkata,Normal,Female,Wearables,187.95,4,37.59,789.39,28-03-2026,15:35,UPI,6.8
+ORD-10210,South,Howrah,Member,Male,Computer Accessories,141.17,1,7.06,148.23,01-01-2026,19:45,UPI,6.5
+ORD-10211,South,Howrah,Member,Female,Laptops,633.95,1,31.7,665.65,19-01-2026,16:15,UPI,6.5
+ORD-10212,North,Kolkata,Member,Female,Audio Accessories,80.1,1,4.01,84.11,02-01-2026,17:45,Credit Card,5.8
+ORD-10213,East,Salt Lake,Member,Female,Smartphones,356.34,3,53.45,1122.46,22-02-2026,13:55,Credit Card,8.8
+ORD-10214,North,Kolkata,Member,Female,Computer Accessories,117.53,3,17.63,370.22,13-02-2026,13:25,Cash,4.8
+ORD-10215,North,KOLKATA,Normal,Male,Computer Accessories,109.68,1,5.48,115.16,31-03-2026,11:45,UPI,8.2
+ORD-10216,East,Salt Lake,Normal,Female,Home Appliances,226.47,3,33.97,713.38,01-02-2026,13:45,UPI,6.5
+ORD-10217,East,Salt Lake,Normal,Male,Computer Accessories,134.45,2,13.45,282.35,11-03-2026,14:05,UPI,7.0
+ORD-10218,East,Salt Lake,Member,Female,Home Appliances,277.63,3,41.64,874.52,01-02-2026,13:05,CASH,6.5
+ORD-10219,East,Salt Lake,Normal,Female,Home Appliances,212.85,2,21.28,446.98,09-03-2026,11:05,Credit Card,9.4
+ORD-10220,South,Howrah,Member,Female,Smartphones,400.72,2,40.07,841.52,24-02-2026,12:45,UPI,7.6
+ORD-10221,South,Howrah,Normal,Female,Wearables,207.78,4,41.56,872.66,16-03-2026,16:15,Credit Card,8.6
+ORD-10222,North,Kolkata,Normal,Female,Smartphones,353.75,1,17.69,371.43,25-02-2026,13:25,Credit Card,9.2
+ORD-10223,Central,Kolkata,Member,Female,Wearables,153.58,1,7.68,161.26,17-01-2026,15:25,Credit Card,7.8
+ORD-10224,Central,Kolkata,Normal,Female,Wearables,158.15,2,15.81,332.11,07-02-2026,16:55,UPI,6.1
+ORD-10225,North,Kolkata,Member,Female,Wearables,186.17,5,46.54,977.39,24-01-2026,17:15,UPI,7.3
+ORD-10226,South,Howrah,Normal,Male,Smartphones,367.15,2,36.72,771.02,10-03-2026,10:15,Cash,6.7
+ORD-10227,Central,Kolkata,Member,Male,Laptops,794.59,1,39.73,834.31,11-03-2026,18:25,UPI,7.0
+ORD-10228,North,Kolkata,Member,Female,Laptops,666.96,1,33.35,700.3,27-03-2026,17:35,Cash,7.5
+ORD-10229,North,Kolkata,Normal,Female,Audio Accessories,85.05,2,8.5,178.6,11-01-2026,11:05,UPI,7.4
+ORD-10230,South,Howrah,Member,Male,Smartphones,381.69,1,19.08,400.78,16-01-2026,19:05,Cash,8.1
+ORD-10231,North,Kolkata,Normal,Male,Computer Accessories,118.75,3,17.81,374.05,14-03-2026,20:25,Cash,8.3
+ORD-10232,East,Salt Lake ,Member,Male,Home Appliances,253.99,5,63.5,1333.44,28-02-2026,11:15,Cash,7.4
+ORD-10233,Central,Kolkata,Normal,Female,Laptops,741.49,2,74.15,1557.13,11-03-2026,14:55,Cash,8.1
+ORD-10234,Central,Kolkata,Normal,Male,Audio Accessories,92.77,2,9.28,194.81,21-03-2026,18:35,Credit Card,6.9
+ORD-10235,South,Howrah,Member,Male,Audio Accessories,87.38,2,8.74,183.51,03-01-2026,18:25,Credit Card,9.2
+ORD-10236,East,Salt Lake,Member,Male,Home Appliances,274.94,1,13.75,288.68,20-01-2026,13:05,UPI,6.9
+ORD-10237,Central,Kolkata,Member,Male,Audio Accessories,94.71,4,18.94,397.79,28-02-2026,13:45,Cash,
+ORD-10238,South,Howrah,Member,Female,Computer Accessories,131.1,2,13.11,275.32,05-02-2026,15:15,Cash,5.8
+ORD-10239,South,Howrah,Member,Female,Audio Accessories,71.4,2,7.14,149.94,19-01-2026,16:45,Cash,7.1
+ORD-10240,North,Kolkata,Normal,Male,Computer Accessories,98.7,3,14.8,310.9,31-03-2026,17:55,Cash,7.2
+ORD-10241,East,Salt Lake,Normal,Male,Computer Accessories,107.58,2,10.76,225.91,08-03-2026,15:25,Credit Card,7.9
+ORD-10242,East,Salt Lake,Normal,Female,Laptops,720.03,3,108.0,2268.1,19-01-2026,16:05,Cash,8.7
+ORD-10243,South,Howrah,Normal,Female,Computer Accessories,116.16,1,5.81,121.97,20-01-2026,18:35,UPI,6.0
+ORD-10244,East,Salt Lake,Normal,Female,Smartphones,405.24,3,60.79,1276.52,12-03-2026,10:45,Cash,6.2
+ORD-10245,East,Salt Lake,Normal,Female,Wearables,204.92,5,51.23,1075.84,21-02-2026,14:35,Cash,5.8
+ORD-10246,South,Howrah,Member,Male,Audio Accessories,97.1,3,14.57,305.88,02-02-2026,18:55,UPI,9.3
+ORD-10247,East,Salt Lake,Normal,Male,Computer Accessories,137.68,5,34.42,722.8,09-02-2026,19:05,UPI,8.0
+ORD-10248,South,Howrah,Normal,Female,Computer Accessories,111.96,1,5.6,117.56,08-02-2026,16:45,Cash,6.2
+ORD-10249,South,Howrah,Normal,Female,Wearables,192.38,2,19.24,404.0,23-03-2026,16:55,Cash,7.0
+ORD-10250,South,Howrah,Member,Female,Wearables,165.2,2,16.52,346.92,01-01-2026,12:35,upi,9.1
+ORD-10251,South,Howrah,Member,Female,Laptops,604.26,2,60.43,1268.95,11-01-2026,16:35,Cash,7.3
+ORD-10252,North,Kolkata,Member,Male,Smartphones,372.32,2,37.23,781.86,26-02-2026,16:45,Cash,7.2
+ORD-10253,East,Salt Lake,Normal,Male,Audio Accessories,80.17,1,4.01,84.18,30-03-2026,14:05,Credit Card,6.6
+ORD-10254,East,Salt Lake,Normal,Male,Smartphones,409.41,1,20.47,429.88,19-02-2026,14:35,UPI,6.3
+ORD-10255,North,Kolkata,Member,Female,Home Appliances,268.59,2,26.86,564.05,23-01-2026,15:25,UPI,9.1
+ORD-10256,East,Salt Lake,Normal,Male,Laptops,586.95,1,29.35,616.3,31-01-2026,10:55,UPI,9.7
+ORD-10257,North,Kolkata,Member,Male,Computer Accessories,130.15,3,19.52,409.97,11-02-2026,15:45,UPI,6.4
+ORD-10258,Central,Kolkata,Member,Male,Home Appliances,242.72,1,12.14,254.85,07-01-2026,13:15,UPI,9.4
+ORD-10259,South,Howrah,Member,Female,Wearables,166.26,1,8.31,174.57,16-01-2026,15:15,UPI,7.0
+ORD-10260,North,Kolkata,Normal,Female,Smartphones,418.91,2,41.89,879.72,31-03-2026,12:05,Credit Card,8.3
+ORD-10261,East,Salt Lake,Normal,Female,Computer Accessories,111.36,2,11.14,233.85,01-03-2026,19:25,Cash,9.4
+ORD-10262,East,Salt Lake,Member,Female,Computer Accessories,124.15,4,24.83,521.43,02-01-2026,17:35,UPI,7.4
+ORD-10263,Central,Kolkata,Normal,Female,Audio Accessories,82.98,2,8.3,174.25,01-01-2026,17:15,UPI,7.2
+ORD-10264,North,Kolkata,Member,Female,Home Appliances,211.0,2,21.1,443.11,17-02-2026,18:05,Credit Card,8.6
+ORD-10265,Central,Kolkata,Normal,Female,Wearables,155.15,3,23.27,488.74,12-01-2026,16:55,UPI,6.2
+ORD-10266,South,Howrah,Normal,Male,Smartphones,427.06,2,42.71,896.83,10-03-2026,11:25,UPI,9.0
+ORD-10267,East,Salt Lake,Normal,Female,Audio Accessories,97.31,1,4.87,102.18,06-02-2026,16:25,Cash,7.8
+ORD-10268,South,Howrah,Member,Female,Audio Accessories,80.23,2,8.02,168.47,01-02-2026,17:05,UPI,6.9
+ORD-10269,North,Kolkata,Normal,Male,Smartphones,455.23,4,91.05,1911.96,09-01-2026,18:05,Cash,6.8
+ORD-10270,South,Howrah,Normal,Male,Audio Accessories,89.86,2,8.99,188.7,19-01-2026,16:35,UPI,5.9
+ORD-10271,Central,Kolkata,Member,Male,Smartphones,485.25,1,24.26,509.51,17-02-2026,12:05,Cash,6.9
+ORD-10272,South,Howrah,Normal,Male,Smartphones,468.53,1,23.43,491.96,21-03-2026,14:35,UPI,7.3
+ORD-10273,North,Kolkata,Member,Male,Smartphones,430.07,1,21.5,451.57,03-01-2026,15:35,Cash,6.3
+ORD-10274,South,Howrah,Normal,Male,Computer Accessories,126.78,2,12.68,266.25,20-01-2026,17:45,UPI,7.5
+ORD-10275,Central,Kolkata,Member,Female,Home Appliances,274.42,2,27.44,576.28,24-01-2026,17:25,Credit Card,8.2
+ORD-10276,East,Salt Lake,Normal,Female,Computer Accessories,115.66,1,5.78,121.44,23-02-2026,15:55,Cash,7.3
+ORD-10277,Central,Kolkata,Normal,Female,Audio Accessories,79.7,4,15.94,334.74,02-02-2026,20:25,UPI,8.4
+ORD-10278,South,Howrah,Member,Female,Laptops,560.25,3,84.04,1764.78,24-01-2026,17:25,UPI,6.6
+ORD-10279,East,Salt Lake,Member,Female,Audio Accessories,94.99,2,9.5,199.48,16-03-2026,14:45,Cash,8.9
+ORD-10280,North,Kolkata,Member,Male,Audio Accessories,94.21,4,18.84,395.68,13-03-2026,12:35,Credit Card,7.8
+ORD-10281,East,Salt Lake,Member,Male,Smartphones,360.19,1,18.01,378.2,05-02-2026,13:35,Cash,9.5
+ORD-10282,South,Howrah,Member,Male,Home Appliances,246.64,2,24.66,517.95,07-02-2026,14:05,UPI,10.0
+ORD-10283,North,Kolkata,Normal,Female,Laptops,671.18,3,100.68,2114.23,25-03-2026,13:45,UPI,7.0
+ORD-10284,Central,Kolkata,Member,Male,Home Appliances,207.06,4,41.41,869.64,30-03-2026,13:05,UPI,7.1
+ORD-10285,South,Howrah,Member,Male,Home Appliances,281.52,3,42.23,886.79,25-01-2026,14:45,UPI,7.3
+ORD-10286,North,Kolkata,Normal,Female,Smartphones,376.86,1,18.84,395.71,18-01-2026,13:05,UPI,8.3
+ORD-10287,South,Howrah,Member,Male,Smartphones,354.57,5,88.64,1861.47,23-03-2026,19:15,Cash,9.3
+ORD-10288,Central,Kolkata,Normal,Female,Wearables,186.15,1,9.31,195.45,07-03-2026,11:25,Credit Card,6.8
+ORD-10289,South,Howrah,Normal,Female,Audio Accessories,92.31,4,18.46,387.7,23-02-2026,16:25,UPI,8.1
+ORD-10290,North,Kolkata,Normal,Male,Smartphones,349.31,5,87.33,1833.85,04-02-2026,15:55,Credit Card,7.4
+ORD-10291,East,Salt Lake,Normal,Female,Computer Accessories,126.86,1,6.34,133.2,21-03-2026,20:35,Credit Card,8.4
+ORD-10292,East,Salt Lake,Normal,Female,Smartphones,424.88,3,63.73,1338.38,02-03-2026,12:55,Credit Card,9.5
+ORD-10293,East,Salt Lake,Member,Male,Home Appliances,205.72,1,10.29,216.01,10-02-2026,15:15,UPI,7.3
+ORD-10294,South,Howrah,Member,Male,Computer Accessories,105.85,2,10.59,222.29,02-02-2026,20:55,UPI,5.5
+ORD-10295,North,Kolkata,Member,Female,Laptops,696.64,2,69.66,1462.94,09-03-2026,19:25,Credit Card,8.5
+ORD-10296,South,Howrah,Normal,Female,Smartphones,389.21,2,38.92,817.34,02-02-2026,18:35,UPI,6.6
+ORD-10297,North,Kolkata,Member,Female,Smartphones,486.27,4,97.25,2042.35,14-01-2026,14:15,Cash,7.4
+ORD-10298,North,Kolkata,Normal,Male,Laptops,758.03,3,113.7,2387.79,21-01-2026,13:25,Credit Card,8.6
+ORD-10299,Central,Kolkata,Normal,Female,Smartphones,493.12,2,49.31,1035.54,17-02-2026,17:05,Credit Card,8.0
+ORD-10300,Central,Kolkata,Normal,Female,Home Appliances,219.24,3,32.89,690.59,20-01-2026,20:45,UPI,7.5
+ORD-10301,South,Howrah,Normal,Male,Smartphones,491.02,5,122.76,2577.87,08-01-2026,17:15,Cash,6.9
+ORD-10302,South,Howrah,Member,Male,Audio Accessories,82.9,1,4.14,87.04,07-01-2026,17:35,UPI,4.0
+ORD-10303,Central,Kolkata,Normal,Female,Computer Accessories,113.41,5,28.35,595.42,08-03-2026,14:55,Credit Card,8.5
+ORD-10304,North,Kolkata,Normal,Female,Wearables,150.86,1,7.54,158.41,17-01-2026,18:55,Credit Card,7.3
+ORD-10305,East,Salt Lake,Member,Male,Home Appliances,201.36,3,30.2,634.28,02-02-2026,13:15,cash,9.5
+ORD-10306,Central,Kolkata,Member,Female,Laptops,727.0,1,36.35,763.35,17-02-2026,15:35,Cash,8.1
+ORD-10307,Central,Kolkata,Normal,Female,Home Appliances,236.37,1,11.82,248.18,17-03-2026,16:15,Credit Card,6.9
+ORD-10308,North,Kolkata,Normal,Male,Home Appliances,216.37,2,21.64,454.38,28-02-2026,16:35,UPI,8.9
+ORD-10309,East,Salt Lake,Normal,Female,Audio Accessories,88.49,3,13.27,278.74,27-03-2026,14:55,UPI,9.0
+ORD-10310,South,Howrah,Normal,Male,Smartphones,382.63,2,38.26,803.53,22-01-2026,12:25,Credit Card,7.3
+ORD-10311,North,Kolkata,Normal,Female,Computer Accessories,123.35,1,6.17,129.52,30-01-2026,17:05,Cash,9.1
+ORD-10312,North,Kolkata,Member,Female,Audio Accessories,80.69,2,8.07,169.45,07-02-2026,14:25,UPI,6.9
+ORD-10313,South,Howrah,Member,Female,Laptops,759.21,4,151.84,3188.66,20-02-2026,17:05,Cash,7.8
+ORD-10314,South,Howrah,,Female,Audio Accessories,94.81,2,9.48,199.11,23-02-2026,13:55,UPI,8.3
+ORD-10315,North,Kolkata,Member,Female,Audio Accessories,84.31,1,4.22,88.52,08-01-2026,16:25,Credit Card,8.6
+ORD-10316,East,Salt Lake,Normal,Female,Wearables,170.33,2,17.03,357.7,27-01-2026,16:25,UPI,8.4
+ORD-10317,North,Kolkata,Normal,Male,Wearables,171.09,1,8.55,179.65,27-01-2026,11:15,Credit Card,7.2
+ORD-10318,Central,Kolkata,Normal,Male,Wearables,199.81,4,39.96,839.2,21-01-2026,15:45,UPI,9.0
+ORD-10319,East,Salt Lake,Member,Male,Smartphones,394.02,4,78.8,1654.89,30-01-2026,12:55,UPI,7.4
+ORD-10320,Central,Kolkata,Normal,Male,Audio Accessories,76.1,2,7.61,159.8,28-01-2026,11:35,Cash,6.9
+ORD-10321,South,Howrah,Normal,Female,Audio Accessories,72.29,2,7.23,151.81,05-03-2026,20:55,UPI,6.9
+ORD-10322,Central,Kolkata,Normal,Male,Smartphones,414.96,3,62.24,1307.14,10-03-2026,15:35,UPI,10.0
+ORD-10323,North,Kolkata,Normal,Female,Laptops,675.63,2,67.56,1418.81,02-03-2026,18:35,Cash,6.7
+ORD-10324,East,Salt Lake,Member,Male,Wearables,202.09,4,40.42,848.78,17-02-2026,14:05,UPI,9.2
+ORD-10325,Central,Kolkata,Member,Male,Smartphones,377.85,3,56.68,1190.23,19-01-2026,17:35,UPI,6.2
+ORD-10326,East,Salt Lake,Member,Male,Home Appliances,229.72,3,34.46,723.61,04-01-2026,18:35,Credit Card,8.2
+ORD-10327,North,Kolkata,Member,Male,Laptops,755.5,2,75.55,1586.55,04-02-2026,17:15,UPI,8.0
+ORD-10328,North,Kolkata,Member,Male,Smartphones,468.93,2,46.89,984.76,05-03-2026,16:25,Credit Card,9.6
+ORD-10329,North,Kolkata,Normal,Female,Laptops,651.75,5,162.94,3421.7,18-02-2026,15:55,Cash,6.8
+ORD-10330,South,Howrah,Normal,Female,Computer Accessories,118.23,2,11.82,248.29,17-01-2026,15:55,Cash,6.4
+ORD-10331,Central,Kolkata,Normal,Male,Wearables,167.25,2,16.73,351.23,13-02-2026,20:35,UPI,7.5
+ORD-10332,East,SALT LAKE,Normal,Female,Computer Accessories,138.69,1,6.93,145.62,30-01-2026,19:45,UPI,9.7
+ORD-10333,Central,Kolkata,Member,Male,Audio Accessories,73.33,3,11.0,230.99,15-02-2026,20:55,Cash,6.5
+ORD-10334,East,Salt Lake,Normal,Male,Smartphones,485.58,2,48.56,1019.72,06-01-2026,12:35,Credit Card,4.4
+ORD-10335,North,Kolkata,Member,Female,Home Appliances,255.89,1,12.79,268.68,06-02-2026,18:05,Credit Card,7.7
+ORD-10336,East,Salt Lake,Member,Male,Audio Accessories,85.97,1,4.3,90.26,24-01-2026,20:05,UPI,8.8
+ORD-10337,South,Howrah,Member,Male,Computer Accessories,99.81,2,9.98,209.6,15-02-2026,13:05,Cash,6.3
+ORD-10338,South,Howrah,Member,Male,Smartphones,416.31,3,62.45,1311.38,22-02-2026,11:35,Credit Card,8.7
+ORD-10339,East,Salt Lake,Member,Male,Audio Accessories,82.18,2,8.22,172.57,01-03-2026,18:15,UPI,6.3
+ORD-10340,South,Howrah,Member,Male,Smartphones,368.78,1,18.44,387.22,04-03-2026,17:45,Credit Card,7.4
+ORD-10341,South,Howrah,Member,Male,Laptops,718.29,3,107.74,2262.61,26-03-2026,19:35,Credit Card,8.5
+ORD-10342,North,Kolkata,Normal,Male,Wearables,210.53,1,10.53,221.06,01-02-2026,12:15,Credit Card,6.1
+ORD-10343,North,Kolkata,Member,Female,Audio Accessories,86.9,2,8.69,182.5,28-03-2026,18:15,UPI,7.8
+ORD-10344,East,Salt Lake,Member,Female,Audio Accessories,91.57,1,4.58,96.15,02-02-2026,13:55,Cash,9.1
+ORD-10345,South,Howrah,Member,Male,Audio Accessories,71.79,1,3.59,75.38,08-03-2026,13:35,UPI,8.2
+ORD-10346,East,Salt Lake,Normal,Female,Audio Accessories,82.48,1,4.12,86.6,18-01-2026,13:35,UPI,6.7
+ORD-10347,Central,Kolkata,Member,Male,Wearables,155.14,2,15.51,325.79,25-01-2026,18:15,Credit Card,9.5
+ORD-10348,North,Kolkata,Member,Male,Computer Accessories,124.87,1,6.24,131.12,23-02-2026,17:15,Cash,8.4
+ORD-10349,North,Kolkata,Member,Female,Computer Accessories,138.94,2,13.89,291.78,27-02-2026,16:15,Cash,5.3
+ORD-10350,South,Howrah,Member,Male,Wearables,190.48,2,19.05,400.01,08-03-2026,15:55,Credit Card,8.7
+ORD-10351,Central,Kolkata,Member,Male,Laptops,576.4,2,57.64,1210.44,15-02-2026,19:35,Credit Card,6.9
+ORD-10352,North,Kolkata,Member,Female,Home Appliances,227.44,2,22.74,477.63,24-01-2026,15:15,Credit Card,7.8
+ORD-10353,Central,Kolkata,Member,Female,Audio Accessories,86.55,4,17.31,363.51,01-02-2026,18:05,Credit Card,8.9
+ORD-10354,North,Kolkata,Member,Female,Laptops,656.31,1,32.82,689.12,16-02-2026,16:35,UPI,6.9
+ORD-10355,South,Howrah,Member,Female,Computer Accessories,134.41,2,13.44,282.27,27-03-2026,15:55,UPI,5.5
+ORD-10356,North,Kolkata,Normal,Male,Smartphones,467.58,1,23.38,490.96,23-01-2026,16:05,Credit Card,9.5
+ORD-10357,East,Salt Lake,Normal,Female,Computer Accessories,124.83,1,6.24,131.07,07-03-2026,14:25,UPI,9.1
+ORD-10358,Central,Kolkata,Member,Male,Audio Accessories,81.13,2,8.11,170.37,27-01-2026,18:35,UPI,7.5
+ORD-10359,Central,Kolkata,Member,Female,Home Appliances,218.86,2,21.89,459.61,02-01-2026,16:25,Cash,8.7
+ORD-10360,North,Kolkata,,Female,Home Appliances,205.95,4,41.19,864.98,31-03-2026,14:15,UPI,7.1
+ORD-10361,North,Kolkata,Member,Male,Computer Accessories,113.73,2,11.37,238.84,17-01-2026,19:55,Credit Card,7.7
+ORD-10362,Central,Kolkata,Member,Male,Home Appliances,232.5,5,58.12,1220.62,02-02-2026,15:15,UPI,7.4
+ORD-10363,Central,Kolkata,Normal,Female,Home Appliances,255.19,1,12.76,267.95,09-01-2026,16:55,Cash,7.2
+ORD-10364,South,Howrah,Member,Female,Smartphones,443.91,1,22.2,466.11,12-02-2026,19:45,UPI,8.0
+ORD-10365,Central,Kolkata,Member,Female,Audio Accessories,71.85,1,3.59,75.44,17-02-2026,17:15,Cash,6.1
+ORD-10366,South,Howrah,Member,Female,Smartphones,404.16,1,20.21,424.37,08-02-2026,12:25,Cash,7.3
+ORD-10367,East,Salt Lake,Normal,Male,Wearables,159.38,2,15.94,334.7,11-02-2026,20:55,UPI,8.0
+ORD-10368,South,Howrah,Member,Female,Audio Accessories,74.5,3,11.17,234.67,26-01-2026,17:15,Credit Card,9.9
+ORD-10369,North,Kolkata,Normal,Female,Home Appliances,268.28,1,13.41,281.69,19-02-2026,15:35,UPI,6.1
+ORD-10370,Central,Kolkata,Normal,Female,Smartphones,350.74,5,87.68,1841.37,25-01-2026,12:55,Cash,8.3
+ORD-10371,North,Kolkata,Member,Male,Smartphones,407.78,4,81.56,1712.68,24-01-2026,18:55,Cash,8.4
+ORD-10372,North,Kolkata,Member,Male,Wearables,158.5,1,7.92,166.42,13-01-2026,17:15,UPI,5.3
+ORD-10373,East,Salt Lake,Member,Female,Smartphones,477.35,1,23.87,501.22,01-03-2026,16:45,UPI,8.1
+ORD-10374,North,Kolkata,Member,Male,Smartphones,428.62,1,21.43,450.06,07-01-2026,19:15,Credit Card,8.7
+ORD-10375,Central,Kolkata,Member,Female,Smartphones,379.38,1,18.97,398.35,26-02-2026,18:25,UPI,8.3
+ORD-10376,South,Howrah,Normal,Female,Computer Accessories,120.1,1,6.01,126.11,05-02-2026,13:25,Credit Card,7.5
+ORD-10377,South,Howrah,Normal,Male,Wearables,195.0,2,19.5,409.5,14-02-2026,15:55,UPI,8.0
+ORD-10378,South,Howrah,Normal,Male,Audio Accessories,99.02,1,4.95,103.97,20-01-2026,14:55,UPI,7.8
+ORD-10379,North,Kolkata,Member,Male,Laptops,611.57,2,61.16,1284.29,06-03-2026,18:15,UPI,5.5
+ORD-10380,Central,Kolkata,Normal,Male,Laptops,774.54,5,193.63,4066.32,08-01-2026,10:25,Credit Card,7.8
+ORD-10381,Central,Kolkata,Normal,Female,Wearables,208.14,3,31.22,655.65,16-01-2026,17:25,UPI,7.1
+ORD-10382,North,Kolkata,Normal,Male,Home Appliances,275.98,5,68.99,1448.89,14-01-2026,18:45,UPI,6.7
+ORD-10383,Central,Kolkata,Member,Female,Smartphones,440.47,1,22.02,462.5,17-03-2026,19:35,UPI,10.0
+ORD-10384,North,Kolkata,Normal,Male,Smartphones,439.63,2,43.96,923.22,28-03-2026,15:45,Cash,9.2
+ORD-10385,North,Kolkata,Member,Female,Smartphones,405.37,2,40.54,851.27,15-01-2026,19:05,UPI,6.2
+ORD-10386,Central,Kolkata,Member,Male,Home Appliances,261.81,1,13.09,274.9,07-03-2026,12:45,Cash,8.0
+ORD-10387,North,Kolkata,Member,Female,Wearables,182.03,1,9.1,191.13,01-02-2026,19:15,upi,9.4
+ORD-10388,South,Howrah,Normal,Female,Laptops,723.44,3,108.52,2278.83,28-03-2026,12:35,UPI,5.7
+ORD-10389,South,Howrah ,Normal,Male,Smartphones,409.18,3,61.38,1288.93,04-03-2026,15:15,UPI,7.7
+ORD-10390,East,Salt Lake,Member,Female,Smartphones,455.0,2,45.5,955.5,27-03-2026,18:05,Credit Card,7.8
+ORD-10391,North,Kolkata,Member,Female,Computer Accessories,134.02,2,13.4,281.44,20-02-2026,12:35,Credit Card,6.0
+ORD-10392,North,Kolkata ,Member,Female,Laptops,593.45,2,59.34,1246.24,25-01-2026,14:55,Credit Card,8.1
+ORD-10393,North,Kolkata,Member,Female,Wearables,201.57,1,10.08,211.65,27-02-2026,18:25,Cash,9.0
+ORD-10394,South,Howrah,Member,Female,Home Appliances,243.48,1,12.17,255.66,04-03-2026,18:45,Cash,9.5
+ORD-10395,South,Howrah,Member,Female,Audio Accessories,95.55,1,4.78,100.32,03-03-2026,17:15,UPI,7.3
+ORD-10396,North,Kolkata,Normal,Male,Laptops,663.18,1,33.16,696.34,22-01-2026,17:05,UPI,10.0
+ORD-10397,East,Salt Lake,Member,Female,Smartphones,401.71,5,100.43,2108.98,27-02-2026,16:25,UPI,5.0
+ORD-10398,North,Kolkata,Member,Male,Home Appliances,275.86,2,27.59,579.31,27-02-2026,14:45,Cash,8.0
+ORD-10399,Central,Kolkata,Member,Male,Wearables,163.88,3,24.58,516.21,27-03-2026,15:25,UPI,5.8
+ORD-10400,South,Howrah,Normal,Female,Home Appliances,269.74,1,13.49,283.23,18-02-2026,13:45,Cash,7.7
+ORD-10401,East,Salt Lake,Normal,Male,Home Appliances,238.62,2,23.86,501.1,21-02-2026,19:55,Credit Card,6.9
+ORD-10402,South,Howrah,Normal,Male,Smartphones,422.13,1,21.11,443.24,11-02-2026,17:35,Cash,8.2
+ORD-10403,East,Salt Lake,Member,Male,Computer Accessories,111.73,1,5.59,117.31,11-03-2026,15:25,UPI,7.4
+ORD-10404,Central,Kolkata,Normal,Female,Wearables,184.73,1,9.24,193.97,15-01-2026,16:25,Cash,6.6
+ORD-10405,East,Salt Lake,Member,Female,Laptops,637.21,3,95.58,2007.22,23-02-2026,20:25,UPI,6.6
+ORD-10406,North,Kolkata,Normal,Male,Computer Accessories,100.1,3,15.01,315.3,01-03-2026,13:35,UPI,10.0
+ORD-10407,East,Salt Lake,Normal,Male,Home Appliances,220.3,2,22.03,462.63,08-01-2026,17:05,Credit Card,8.2
+ORD-10408,Central,Kolkata,Normal,Male,Home Appliances,197.35,2,19.74,414.44,22-02-2026,16:45,Credit Card,5.5
+ORD-10409,East,Salt Lake,Normal,Female,Wearables,211.0,4,42.2,886.19,01-03-2026,17:55,UPI,8.3
+ORD-10410,Central,Kolkata,Normal,Male,Wearables,210.18,1,10.51,220.69,05-01-2026,10:25,Credit Card,7.4
+ORD-10411,South,Howrah,Member,Female,Home Appliances,230.94,1,11.55,242.49,09-03-2026,19:35,Credit Card,7.6
+ORD-10412,Central,Kolkata,Normal,Female,Smartphones,454.53,2,45.45,954.51,06-01-2026,20:05,Credit Card,8.6
+ORD-10413,South,Howrah,Member,Female,Laptops,642.25,3,96.34,2023.1,16-02-2026,17:45,Credit Card,9.1
+ORD-10414,North,Kolkata,Normal,Male,Computer Accessories,127.39,5,31.85,668.8,24-02-2026,17:35,Cash,6.5
+ORD-10415,North,Kolkata,Member,Female,Laptops,754.77,1,37.74,792.51,09-02-2026,20:55,UPI,7.6
+ORD-10416,North,Kolkata,Member,Female,Audio Accessories,98.67,4,19.73,414.42,21-02-2026,18:55,Cash,6.9
+ORD-10417,North,Kolkata,Member,Male,Audio Accessories,81.95,4,16.39,344.18,16-01-2026,13:45,Cash,
+ORD-10418,East,Salt Lake,Member,Female,Audio Accessories,93.67,1,4.68,98.35,13-01-2026,17:25,Credit Card,7.3
+ORD-10419,North,Kolkata,Member,Female,Home Appliances,219.78,2,21.98,461.53,30-01-2026,17:55,UPI,7.6
+ORD-10420,East,Salt Lake,Normal,Female,Computer Accessories,141.18,2,14.12,296.48,19-01-2026,16:05,Credit Card,7.3
+ORD-10421,Central,Kolkata,Member,Male,Laptops,563.91,5,140.98,2960.52,17-01-2026,18:35,Credit Card,7.5
+ORD-10422,North,Kolkata,Member,Female,Smartphones,435.65,1,21.78,457.44,04-03-2026,20:05,Credit Card,9.7
+ORD-10423,East,Salt Lake,Normal,Female,Laptops,719.05,3,107.86,2265.0,19-01-2026,20:25,Credit Card,10.0
+ORD-10424,South,Howrah,Member,Male,Computer Accessories,128.12,1,6.41,134.53,27-02-2026,16:05,Cash,8.1
+ORD-10425,Central,Kolkata,Normal,Male,Home Appliances,207.2,3,31.08,652.68,24-02-2026,12:05,Cash,7.5
+ORD-10426,South,HOWRAH,Normal,Female,Laptops,787.35,2,78.74,1653.44,31-03-2026,20:15,UPI,5.6
+ORD-10427,South,Howrah,Normal,Male,Wearables,159.34,2,15.93,334.62,31-03-2026,19:05,Cash,6.6
+ORD-10428,North,Kolkata,Normal,Male,Computer Accessories,125.3,4,25.06,526.27,03-03-2026,12:45,Cash,7.4
+ORD-10429,East,Salt Lake,Member,Male,Computer Accessories,108.02,3,16.2,340.26,23-01-2026,20:35,UPI,6.7
+ORD-10430,East,Salt Lake,Normal,Female,Computer Accessories,111.67,4,22.33,469.02,09-01-2026,19:15,Credit Card,6.8
+ORD-10431,South,Howrah,Member,Male,Laptops,691.37,1,34.57,725.94,12-01-2026,16:35,UPI,9.6
+ORD-10432,North,Kolkata,Member,Male,Wearables,174.63,3,26.2,550.1,01-01-2026,17:35,UPI,7.6
+ORD-10433,South,Howrah,Normal,Female,Audio Accessories,74.6,1,3.73,78.33,27-02-2026,15:25,UPI,7.7
+ORD-10434,North,Kolkata,Member,Female,Computer Accessories,105.78,2,10.58,222.15,01-01-2026,11:25,Cash,
+ORD-10435,North,Kolkata,Normal,Female,Wearables,174.7,2,17.47,366.86,03-02-2026,15:15,Cash,9.1
+ORD-10436,North,Kolkata,Normal,Female,Wearables,196.67,2,19.67,413.01,17-02-2026,18:55,Credit Card,7.3
+ORD-10437,Central,Kolkata,Normal,Male,Home Appliances,274.38,2,27.44,576.21,30-03-2026,10:25,UPI,6.9
+ORD-10438,East,Salt Lake,Normal,Female,Smartphones,357.12,5,89.28,1874.88,01-01-2026,15:25,Credit Card,5.6
+ORD-10439,South,Howrah,Member,Female,Home Appliances,230.76,1,11.54,242.3,16-01-2026,15:25,Cash,7.5
+ORD-10440,South,Howrah,Member,Male,Computer Accessories,102.73,3,15.41,323.6,02-03-2026,16:35,Credit Card,6.9
+ORD-10441,Central,Kolkata,Normal,Female,Computer Accessories,99.12,2,9.91,208.15,05-03-2026,19:15,UPI,9.7
+ORD-10442,Central,Kolkata,Member,Male,Smartphones,444.45,1,22.22,466.67,04-03-2026,15:35,UPI,9.9
+ORD-10443,Central,Kolkata,Normal,Female,Smartphones,435.49,1,21.77,457.26,10-03-2026,15:45,UPI,6.1
+ORD-10444,East,SALT LAKE,Normal,Female,Smartphones,369.05,5,92.26,1937.5,22-01-2026,18:35,Credit Card,6.2
+ORD-10445,North,Kolkata,Normal,Female,Wearables,162.75,4,32.55,683.55,08-03-2026,16:45,UPI,7.3
+ORD-10446,East,Salt Lake,Member,Female,Wearables,149.14,4,29.83,626.37,17-03-2026,14:05,UPI,6.6
+ORD-10447,South,Howrah,Member,Female,Laptops,762.0,5,190.5,4000.47,26-01-2026,16:05,Credit Card,7.9
+ORD-10448,Central,Kolkata,Member,Male,Audio Accessories,99.53,1,4.98,104.5,16-01-2026,12:45,Credit Card,7.2
+ORD-10449,South,Howrah,Member,Male,Computer Accessories,104.25,2,10.43,218.93,20-02-2026,13:45,UPI,8.0
+ORD-10450,Central,Kolkata,Normal,Female,Wearables,162.6,3,24.39,512.19,27-03-2026,16:35,Credit Card,8.9
+ORD-10451,East,Salt Lake,Member,Male,Home Appliances,271.83,2,27.18,570.84,26-02-2026,15:45,UPI,6.3
+ORD-10452,East,Salt Lake,Member,Male,Home Appliances,276.85,2,27.68,581.38,29-01-2026,19:15,Cash,8.8
+ORD-10453,Central,Kolkata,Member,Male,Audio Accessories,82.54,2,8.25,173.34,19-03-2026,15:05,UPI,6.7
+ORD-10454,North,Kolkata,Normal,Female,Laptops,569.99,2,57.0,1196.98,10-03-2026,17:05,Credit Card,10.0
+ORD-10455,South,Howrah,Normal,Female,Home Appliances,200.2,2,20.02,420.43,16-02-2026,17:55,Credit Card,9.6
+ORD-10456,East,Salt Lake,Member,Female,Home Appliances,246.39,1,12.32,258.71,03-03-2026,10:45,UPI,7.5
+ORD-10457,North,Kolkata,Member,Male,Computer Accessories,115.37,2,11.54,242.28,10-03-2026,17:25,UPI,
+ORD-10458,South,Howrah,Member,Male,Home Appliances,199.28,2,19.93,418.48,17-03-2026,13:25,Cash,6.2
+ORD-10459,South,Howrah,Member,Female,Wearables,185.39,2,18.54,389.33,16-01-2026,20:45,Credit Card,8.7
+ORD-10460,South,Howrah,Normal,Female,Smartphones,346.11,1,17.31,363.41,31-03-2026,12:15,Credit Card,7.6
+ORD-10461,North,Kolkata,Normal,Male,Audio Accessories,93.79,3,14.07,295.45,31-03-2026,15:25,UPI,8.8
+ORD-10462,South,Howrah,Member,Male,Smartphones,390.73,1,19.54,410.27,17-02-2026,11:55,Credit Card,10.0
+ORD-10463,East,Salt Lake,Member,Male,Laptops,567.46,2,56.75,1191.66,26-03-2026,20:45,Credit Card,6.6
+ORD-10464,North,Kolkata,Normal,Male,Wearables,185.73,3,27.86,585.03,08-02-2026,16:15,UPI,6.1
+ORD-10465,North,Kolkata,Member,Female,Computer Accessories,115.58,2,11.56,242.72,02-02-2026,17:15,Cash,7.8
+ORD-10466,East,Salt Lake,Normal,Male,Smartphones,491.64,1,24.58,516.22,23-01-2026,11:35,UPI,9.0
+ORD-10467,North,Kolkata,Member,Male,Audio Accessories,86.35,3,12.95,272.01,10-01-2026,18:15,UPI,6.4
+ORD-10468,East,Salt Lake,Member,Female,Wearables,165.44,2,16.54,347.41,10-03-2026,13:25,UPI,7.6
+ORD-10469,Central,Kolkata,Member,Male,Laptops,731.27,3,109.69,2303.5,03-02-2026,19:25,UPI,9.3
+ORD-10470,North,Kolkata,Member,Male,Home Appliances,220.26,3,33.04,693.81,21-02-2026,13:45,Credit Card,5.6
+ORD-10471,East,Salt Lake,Normal,Female,Wearables,206.19,2,20.62,433.01,10-01-2026,13:45,Cash,7.9
+ORD-10472,Central,Kolkata,Member,Male,Home Appliances,229.18,2,22.92,481.27,19-01-2026,10:15,UPI,6.9
+ORD-10473,Central,Kolkata,Member,Male,Smartphones,427.54,1,21.38,448.92,27-02-2026,16:55,UPI,
+ORD-10474,Central,Kolkata,Member,Male,Audio Accessories,71.25,1,3.56,74.81,01-01-2026,17:05,UPI,8.5
+ORD-10475,South,Howrah,Member,Female,Wearables,175.21,2,17.52,367.95,10-03-2026,11:35,UPI,7.9
+ORD-10476,North,Kolkata,Member,Female,Home Appliances,268.72,2,26.87,564.3,04-01-2026,18:05,UPI,6.3
+ORD-10477,Central,Kolkata,Member,Male,Smartphones,466.21,2,46.62,979.05,16-01-2026,16:15,Cash,7.0
+ORD-10478,East,Salt Lake,Normal,Female,Wearables,162.14,1,8.11,170.24,24-01-2026,16:15,UPI,9.4
+ORD-10479,North,Kolkata,Member,Male,Smartphones,378.58,1,18.93,397.51,21-03-2026,16:05,UPI,8.0
+ORD-10480,South,Howrah,Member,Male,Wearables,200.56,2,20.06,421.18,02-01-2026,15:35,Cash,8.7
+ORD-10481,Central,Kolkata,Normal,Female,Laptops,785.36,1,39.27,824.63,01-02-2026,17:05,Credit Card,7.9
+ORD-10482,South,Howrah,,Male,Computer Accessories,102.52,3,15.38,322.94,25-03-2026,13:45,UPI,8.6
+ORD-10483,North,Kolkata,Normal,Female,Audio Accessories,83.47,1,4.17,87.65,24-01-2026,13:25,UPI,7.1
+ORD-10484,East,Salt Lake,Member,Female,Laptops,640.21,2,64.02,1344.44,12-01-2026,19:55,Credit Card,6.6
+ORD-10485,Central,Kolkata,Normal,Male,Smartphones,476.05,5,119.01,2499.25,19-02-2026,20:45,Cash,
+ORD-10486,North,Kolkata,Normal,Male,Laptops,578.05,1,28.9,606.95,04-02-2026,15:25,Cash,9.0
+ORD-10487,North,Kolkata,Normal,Male,Computer Accessories,107.52,2,10.75,225.79,02-02-2026,14:55,Credit Card,6.5
+ORD-10488,North,Kolkata,Normal,Male,Computer Accessories,130.91,1,6.55,137.45,02-02-2026,17:55,UPI,6.9
+ORD-10489,Central,Kolkata,Member,Female,Audio Accessories,71.27,3,10.69,224.5,02-03-2026,15:55,UPI,7.4
+ORD-10490,Central,KOLKATA,Normal,Male,Audio Accessories,84.77,2,8.48,178.02,20-02-2026,10:15,Credit Card,9.6
+ORD-10491,East,Salt Lake,Member,Male,Wearables,176.25,2,17.62,370.12,12-02-2026,13:55,Credit Card,8.3
+ORD-10492,Central,Kolkata,Member,Male,Computer Accessories,112.85,2,11.28,236.98,12-01-2026,18:35,Credit Card,5.9
+ORD-10493,North,Kolkata,Member,Male,Home Appliances,230.89,4,46.18,969.74,08-03-2026,17:05,UPI,7.5
+ORD-10494,South,Howrah,Normal,Female,Audio Accessories,85.92,1,4.3,90.21,06-03-2026,10:35,UPI,7.3
+ORD-10495,South,Howrah,Member,Male,Audio Accessories,74.64,1,3.73,78.37,02-02-2026,14:05,UPI,6.1
+ORD-10496,North,Kolkata,Normal,Female,Home Appliances,246.22,4,49.24,1034.13,09-02-2026,14:45,Cash,7.5
+ORD-10497,North,Kolkata,Normal,Female,Smartphones,466.18,2,46.62,978.98,15-03-2026,17:45,UPI,7.2
+ORD-10498,North,Kolkata,Normal,Female,Home Appliances,262.48,4,52.5,1102.41,12-02-2026,10:05,UPI,7.1
+ORD-10499,South,Howrah,Normal,Male,Audio Accessories,74.41,2,7.44,156.26,13-02-2026,12:35,Credit Card,7.1
+ORD-10500,South,Howrah,Member,Male,Wearables,157.27,3,23.59,495.4,29-01-2026,18:05,UPI,9.4
+ORD-10501,Central,Kolkata,Member,Male,Smartphones,384.95,2,38.49,808.39,13-01-2026,13:55,UPI,7.1
+ORD-10502,East,Salt Lake,Member,Male,Home Appliances,228.0,3,34.2,718.19,12-01-2026,17:15,UPI,7.7
+ORD-10503,East,Salt Lake,Member,Male,Audio Accessories,82.2,4,16.44,345.23,15-02-2026,14:45,Cash,7.5
+ORD-10504,South,Howrah,Member,Male,Home Appliances,255.53,2,25.55,536.6,02-01-2026,12:15,Cash,7.0
+ORD-10505,East,Salt Lake,Member,Female,Smartphones,352.97,1,17.65,370.62,04-02-2026,14:55,UPI,7.7
+ORD-10506,North,Kolkata,Member,Female,Home Appliances,199.8,1,9.99,209.79,28-03-2026,18:55,Cash,7.7
+ORD-10507,North,Kolkata,Normal,Female,Home Appliances,230.66,1,11.53,242.19,22-03-2026,19:45,UPI,7.7
+ORD-10508,North,Kolkata,Normal,Male,Home Appliances,257.03,1,12.85,269.89,31-03-2026,19:45,Credit Card,6.5
+ORD-10509,North,Kolkata,Member,Male,Home Appliances,213.51,1,10.68,224.19,08-01-2026,15:55,Credit Card,7.3
+ORD-10510,Central,Kolkata,Normal,Female,Home Appliances,252.23,2,25.22,529.67,26-01-2026,17:25,UPI,8.6
+ORD-10511,East,Salt Lake,Member,Female,Wearables,164.44,2,16.44,345.32,15-03-2026,13:15,Cash,7.4
+ORD-10512,North,Kolkata,Member,Male,Laptops,774.51,2,77.45,1626.48,31-03-2026,14:15,Credit Card,7.8
+ORD-10513,North,Kolkata,Normal,Female,Wearables,205.64,2,20.56,431.85,03-02-2026,19:25,Credit Card,7.8
+ORD-10514,Central,Kolkata,Member,Male,Audio Accessories,78.8,1,3.94,82.74,07-01-2026,10:35,Cash,8.1
+ORD-10515,East,Salt Lake,Member,Male,Smartphones,379.18,1,18.96,398.13,09-03-2026,11:15,Credit Card,8.3
+ORD-10516,Central,Kolkata,Normal,Female,Smartphones,406.59,1,20.33,426.92,27-02-2026,13:05,UPI,7.4
+ORD-10517,Central,Kolkata,Normal,Female,Laptops,616.48,2,61.65,1294.61,16-03-2026,10:55,Credit Card,6.5
+ORD-10518,North,Kolkata,Normal,Male,Wearables,191.17,1,9.56,200.73,29-01-2026,13:55,Credit Card,6.1
+ORD-10519,North,Kolkata,Normal,Male,Wearables,201.13,1,10.06,211.19,05-02-2026,17:25,Cash,8.9
+ORD-10520,East,Salt Lake,Normal,Male,Wearables,191.22,2,19.12,401.55,30-03-2026,16:15,Credit Card,8.6
+ORD-10052,Central,Kolkata,Normal,Female,Wearables,165.33,2,16.53,347.2,09-01-2026,11:55,UPI,6.7
+ORD-10323,North,Kolkata,Normal,Female,Laptops,675.63,2,67.56,1418.81,02-03-2026,18:35,Cash,6.7
+ORD-10419,North,Kolkata,Member,Female,Home Appliances,219.78,2,21.98,461.53,30-01-2026,17:55,UPI,7.6
+ORD-10083,Central,Kolkata,Normal,Female,Home Appliances,262.68,1,13.13,275.81,13-03-2026,19:55,Credit Card,7.3
+ORD-10507,North,Kolkata,Normal,Female,Home Appliances,230.66,1,11.53,242.19,22-03-2026,19:45,UPI,7.7
+ORD-10446,East,Salt Lake,Member,Female,Wearables,149.14,4,29.83,626.37,17-03-2026,14:05,UPI,6.6
+ORD-10051,Central,Kolkata,Normal,Male,Home Appliances,250.71,2,25.07,526.5,14-01-2026,18:25,UPI,7.6
+ORD-10004,North,Kolkata,Member,Female,Home Appliances,270.01,3,40.5,850.55,02-03-2026,18:05,Credit Card,8.8
+RET-20001,South,Howrah,Member,Male,Home Appliances,255.53,-2,-25.55,-536.6,02-01-2026,12:15,Cash,7.0
+RET-20002,East,Salt Lake,Normal,Male,Smartphones,485.58,-2,-48.56,-1019.72,06-01-2026,12:35,Credit Card,4.4
+RET-20003,East,Salt Lake,Member,Female,Audio Accessories,94.99,-2,-9.5,-199.48,16-03-2026,14:45,Cash,8.9
+RET-20004,East,Salt Lake,Member,Male,Home Appliances,276.85,-2,-27.68,-581.38,29-01-2026,19:15,Cash,8.8
